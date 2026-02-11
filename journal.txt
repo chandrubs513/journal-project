@@ -1,1 +1,2 @@
 Day 1: starting with git
+it is updating on remote repo. its a testing journal file.
